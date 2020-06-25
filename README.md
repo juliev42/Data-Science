@@ -4,7 +4,7 @@ Demos/tutorials:
 - PCA demo
 - SQL <> Pandas
 
-Educational project: 
+Educational projects: 
 - Stop and Frisk
 - DICOM images
 
