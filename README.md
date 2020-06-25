@@ -5,6 +5,6 @@ Demos/tutorials:
 - SQL <> Pandas
 
 Educational project: 
--Stop and Frisk
--DICOM images
+- Stop and Frisk
+- DICOM images
 
