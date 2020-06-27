@@ -7,4 +7,5 @@ Demos/tutorials:
 Educational projects: 
 - Stop and Frisk
 - DICOM images
+- UCI Diabetes Dataset
 
